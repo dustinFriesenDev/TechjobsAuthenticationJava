@@ -2,7 +2,7 @@ package org.launchcode.techjobsauth.controllers;
 
 import jakarta.validation.Valid;
 import org.launchcode.techjobsauth.models.Job;
-import org.launchcode.techjobsauth.models.data.JobRepository;
+import org.launchcode.techjobsauth.data.JobRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.validation.Errors;

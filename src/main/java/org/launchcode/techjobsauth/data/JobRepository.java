@@ -1,4 +1,4 @@
-package org.launchcode.techjobsauth.models.data;
+package org.launchcode.techjobsauth.data;
 
 import jakarta.transaction.Transactional;
 import org.launchcode.techjobsauth.models.Job;
